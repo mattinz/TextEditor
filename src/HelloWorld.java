@@ -1,0 +1,10 @@
+/**
+ * Created by Mattin on 1/24/2017.
+ */
+public class HelloWorld
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World!");
+    }
+}
